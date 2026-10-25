@@ -6,8 +6,8 @@
     </listeners>
     <test thread-count="5" name="UsersModule">
         <classes>
-<!--            <class name="api.testcases.UserTests"/>-->
-<!--            <class name="api.testcases.DataDrivenTests"/>-->
+            <class name="api.testcases.UserTests"/>
+            <class name="api.testcases.DataDrivenTests"/>
             <class name="api.testcases.UserTests_Properties"/>
         </classes>
     </test>
